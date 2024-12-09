@@ -1,5 +1,5 @@
 title: "HS GitHub Documentation"
 description: "A website using Just the Docs theme"
-url: "https://hs-github.io"
-baseurl: ""  # Leave this empty for user/organization pages
+url: "https://haricharan12.github.io"
+baseurl: "/hs-github.io"  # Matches the repository name
 theme: "just-the-docs"
